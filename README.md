@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full Stack Machine Learning Engineer<br>Proficient in Computer Vision, NLP, Segment Analysis and Recommendation Systems with Seamless Cloud Integration (AWS & Google Cloud)</p>
+<p align="left">Software Engineer (Machine Learning & AI)<br>Proficient in Computer Vision, NLP, Segment Analysis and Recommendation Systems with Seamless Cloud Integration (AWS & Google Cloud)</p>
 
 ###
 
